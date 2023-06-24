@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "820315265747",
+    "project_id": "fir-oc-2-52bde",
+    "storage_bucket": "fir-oc-2-52bde.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:820315265747:android:8290efc1c0dee5ea2a5226",
+        "android_client_info": {
+          "package_name": "com.openclassrooms.firebaseoc"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "820315265747-f83g85epb1m4le9mnb8po3rvf8ht4r34.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.openclassrooms.firebaseoc",
+            "certificate_hash": "a5f851eae10fd9841bdd9060f9e2d25b6811af56"
+          }
+        },
+        {
+          "client_id": "820315265747-3sjmhhsdc45d1ul2biria4p4rl0j6634.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDwVP0E6if--QOY2mWa5-HNaKdbpFN75eU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "820315265747-3sjmhhsdc45d1ul2biria4p4rl0j6634.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
