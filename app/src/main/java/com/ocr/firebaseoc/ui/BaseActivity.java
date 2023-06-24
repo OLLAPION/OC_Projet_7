@@ -21,6 +21,7 @@ abstract class BaseActivity<T extends ViewBinding> extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         initBinding();
     }
+    
 
     /**
      * Initialise the binding object and the layout of the activity
